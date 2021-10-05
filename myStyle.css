@@ -1,0 +1,49 @@
+h1 {
+    background-color: orange;
+    text-align: center;
+}
+
+h2 {
+    background-color: orange;
+    text-align: center;
+}
+
+h3 {
+    background-color: chocolate;
+    text-align: center;
+}
+
+p{
+    color: maroon;
+    font-family: 'Times New Roman';
+}
+
+#NotMine{
+    background-color: red;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+body{
+    margin: 2%;
+}
+
+th{
+    text-align: center;
+    color: red;
+    padding: 7rem;
+    padding-bottom: 2rem;
+}
+
+td{
+    color: purple;
+}
+
+.center {
+    margin-left: auto; 
+    margin-right: auto;
+  }
