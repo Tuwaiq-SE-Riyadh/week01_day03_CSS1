@@ -1,0 +1,43 @@
+body, html {
+    margin-left:2%;
+    margin-right:2%;
+    margin-bottom:2%;
+    margin-top:2%;
+    }
+h1 , h2 , h3 {
+    background-color: #ff4500;
+    text-align: center;
+    margin: 2%;
+}
+
+p {
+    color: #800000;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.h3color {
+    color: #D2691E;
+}
+
+#h3red {
+    color: red;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#bigpic {
+    width: 40%;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+th {
+    text-align: center;
+    color: red;
+}
+td {
+    color: purple;
+}
