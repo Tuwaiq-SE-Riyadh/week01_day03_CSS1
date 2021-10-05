@@ -1,0 +1,42 @@
+
+.h{
+    background-color: orangered;
+    text-align: center;
+     
+ }
+ p{
+    color: maroon; 
+    font-family: 'Times New Roman';
+}
+h3{
+    color: chocolate;
+}
+ 
+body{
+    margin: 2%;
+}
+
+th{
+    text-align: center;
+    color:red;
+}
+
+td{
+   
+    color:purple;
+}
+table, th, td {
+    border:1px solid black;
+    
+  }
+  img{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  table{
+    display: block;
+    margin-left: 8%;
+    margin-right: 5%;
+  }
+     
