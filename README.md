@@ -20,3 +20,9 @@ of the content purple.
 - Centre the table on the page.
 - Before submitting your code, check it with the HTML and CSS validators here and
 here.
+
+
+### Additional Reading:
+[CSS Notes for Professional Book](https://www.dropbox.com/sh/e533hpeddk382u5/AACYrqzJxRLnAQPVRtHIPo7Da/Certified%20Ful[…]sk%204/Additional%20reading/CSSNotesForProfessionals.pdf?dl=0)
+
+[CSS_centring things](https://www.dropbox.com/sh/e533hpeddk382u5/AADHTKEWqUcxrj2_C-J0SFoHa/Certified%20Ful[…]k%204/Additional%20reading/CSS_%20centering%20things.pdf?dl=0) 
