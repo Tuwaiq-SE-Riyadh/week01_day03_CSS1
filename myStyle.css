@@ -1,0 +1,49 @@
+h1{
+    background-color: orange;
+    text-align: center;
+}
+h2{
+    background-color: orange;
+    text-align: center;
+}
+h3{
+    background-color: orange;
+    text-align: center;
+}
+h4{    background-color: orange;
+    text-align: center;
+}
+.ch{
+   color: chocolate; 
+}
+
+#ch2{
+    color: red; 
+ }
+
+p{
+
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;}
+body{
+    margin: 2%;
+}
+th{
+    text-align: center;
+    color: red;
+}
+td{
+    color: purple;
+    text-align: center;
+    border: 3px solid black;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border:  3px solid black;
+    }
