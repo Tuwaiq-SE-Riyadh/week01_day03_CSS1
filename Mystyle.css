@@ -8,7 +8,8 @@ p{
 }
 body{
     font-family: 'Times New Roman', Times, serif;
-    color: maroon;
+    color: maroon; 
+    margin: 2%;
 }
 
 .h{
