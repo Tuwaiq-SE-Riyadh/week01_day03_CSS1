@@ -1,0 +1,32 @@
+h1,h2,h3 {
+    background-color: orangered;
+    text-align: center;
+}
+p {
+    font-family: "maroon","Times New Roman";
+}
+h3{
+    color: chocolate;
+}
+#uniqe_heading{
+    color: black;
+}
+#img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+body{
+    margin: 2%;
+}
+th{
+    text-align: center;
+    color: red;
+    background-color: #c0c4c4
+}
+table{
+    color: purple;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 1px solid #ddd;
+}
