@@ -1,0 +1,54 @@
+h1,
+h2 {
+    background-color: orangered;
+    text-align: center;
+}
+
+p {
+    font-family: 'Times New Roman', maroon;
+}
+
+h3 {
+    color: chocolate;
+}
+
+
+/*  used Id called red text to make a spsific text red */
+
+#redText {
+    color: red;
+}
+
+
+/* used w3.org to know how but the img in the center
+ https://www.w3.org/Style/Examples/007/center-example*/
+
+img {
+    display: block;
+    margin: 1em auto;
+}
+
+tr {
+    color: red;
+    text-align: center;
+}
+
+
+/* used Id called row2 to make the text purple in the second row */
+
+#row2 {
+    color: purple;
+}
+
+
+/* used the W3Schol refrence to make a table in center the bage
+ https: //www.w3schools.com/howto/howto_css_table_center.asp */
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+html {
+    margin: 2%;
+}
