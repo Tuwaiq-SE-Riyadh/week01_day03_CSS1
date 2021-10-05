@@ -25,4 +25,4 @@ here.
 ### Additional Reading:
 [CSS Notes for Professional Book](https://www.dropbox.com/sh/e533hpeddk382u5/AACYrqzJxRLnAQPVRtHIPo7Da/Certified%20Full%20Stack%20Web%20Developer%20Bootcamp/Level%201%3A%20Web%20Development%20Essentials/Task%204/Additional%20reading/CSSNotesForProfessionals.pdf?dl=0)
 
-[CSS_centring things](https://www.dropbox.com/sh/e533hpeddk382u5/AADHTKEWqUcxrj2_C-J0SFoHa/Certified%20Ful[…]k%204/Additional%20reading/CSS_%20centering%20things.pdf?dl=0) 
+[CSS_centring things](https://www.dropbox.com/sh/e533hpeddk382u5/AADHTKEWqUcxrj2_C-J0SFoHa/Certified%20Full%20Stack%20Web%20Developer%20Bootcamp/Level%201%3A%20Web%20Development%20Essentials/Task%204/Additional%20reading/CSS_%20centering%20things.pdf?dl=0) 
