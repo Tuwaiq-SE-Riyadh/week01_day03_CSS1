@@ -1,0 +1,33 @@
+body{
+    margin: 2%;
+}
+.headings{
+    background-color: orangered;
+    text-align: center;
+}
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif, maroon;
+}
+h3{
+    color: chocolate;
+}
+img{
+   
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+tr{
+    text-align: center;
+    background-color: purple;
+}
+th{
+    
+    background-color:red
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
