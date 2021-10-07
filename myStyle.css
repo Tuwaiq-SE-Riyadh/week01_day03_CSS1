@@ -1,0 +1,46 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: maroon;
+}
+
+#red-color{
+    color: red;
+}
+
+h3{
+    color: chocolate ;
+}
+
+h1, h2, h3, h4, h5, h6{
+    background-color: orangered;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+body{
+    margin: 2%;
+}
+
+th{
+    text-align: center;
+    color: red;
+}
+
+td{
+    color: purple;
+    border: 1px solid black;
+
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    border: 1px solid black;
+
+}
