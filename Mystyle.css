@@ -1,0 +1,28 @@
+h3,h1,h2{
+    text-align: center;
+    background-color: orangered;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: maroon;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color: maroon; 
+    margin: 2%;
+}
+
+.h{
+	color: chocolate;
+}
+.hh{
+    color: red;
+}
+
+th{
+	color: red;
+	text-align: center;
+}
+td{
+	color: purple;
+}
