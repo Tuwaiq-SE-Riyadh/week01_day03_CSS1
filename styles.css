@@ -1,0 +1,49 @@
+h1 {
+    color: black;
+    background-color: orangered;
+    text-align:center;
+    
+}
+
+h3 {
+    color: chocolate ;
+    background-color: orangered;
+    text-align:center;
+    
+}
+
+h2 {
+    color: black;
+    background-color: orangered;
+    text-align:center;
+    
+}
+
+p{
+  color: maroon ;
+  font-family:'Times New Roman', Times, serif ;
+
+}
+
+/*<!-- frend help and web -->*/
+#c1{
+    color: red;
+    font-family:'Times New Roman', Times, serif ;
+
+
+}
+
+.center{
+
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.center1{
+
+    margin-left: auto;
+  margin-right: auto;
+}
+
